@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "580162992218",
+    "project_id": "fixit-lanka",
+    "storage_bucket": "fixit-lanka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580162992218:android:aa91727dbcee378a498063",
+        "android_client_info": {
+          "package_name": "com.example.fixit_lanka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_59mH821wywfDnY6xZ8_cfG_5M4EwtsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580162992218:android:e8c397e797a05c69498063",
+        "android_client_info": {
+          "package_name": "com.example.fixit_worker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_59mH821wywfDnY6xZ8_cfG_5M4EwtsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580162992218:android:67ac872da499fff0498063",
+        "android_client_info": {
+          "package_name": "com.example.worker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_59mH821wywfDnY6xZ8_cfG_5M4EwtsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
